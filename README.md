@@ -44,7 +44,7 @@ A simple, interactive command-line trivia game built in Node.js—designed with 
 3. Run the game
   `npm start`
 
-   ## Usage:
+## Usage:
 
 •	On launch, press Enter to begin.
 
