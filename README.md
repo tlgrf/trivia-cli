@@ -35,25 +35,21 @@ A simple, interactive command-line trivia game built in Node.js—designed with 
 ---
 
 ## Installation
-   **Clone the repo**  
+1. Clone the repo:  
    ```bash
    git clone https://github.com/your-username/trivia-cli.git
    cd trivia-cli
-3. Install dependencies
+2. Install dependencies
      `npm install`
-4. Run the game
+3. Run the game
   `npm start`
 
-## Usage
-   
-	•	On launch, press Enter to begin.
+   ## Usage:
 
-	•	For each question, type 1, 2, 3, or 4 to select your answer.
+•	On launch, press Enter to begin.
 
-	•	You have 15 seconds per question—watch the countdown!
+•	For each question, type 1, 2, 3, or 4 to select your answer.
 
-	•	At the end, your total score is displayed.
+•	You have 15 seconds per question—watch the countdown!
 
-Requirements
-	•	Node.js v14 or higher
-	•	npm
+•	At the end, your total score is displayed.
