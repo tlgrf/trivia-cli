@@ -34,16 +34,17 @@ A simple, interactive command-line trivia game built in Node.js—designed with 
 
 ---
 
-1. **Clone the repo**  
+## Installation
+   **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/trivia-cli.git
    cd trivia-cli
-2. Install dependencies
+3. Install dependencies
      `npm install`
-3. Run the game
+4. Run the game
   `npm start`
 
-5. Usage
+## Usage
    
 	•	On launch, press Enter to begin.
 
